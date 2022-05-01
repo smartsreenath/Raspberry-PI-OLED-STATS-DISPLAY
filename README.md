@@ -45,3 +45,17 @@ If you do not want to solder the display, I reccomend to use female to female ju
 | VCC | Voltage Common Collector|
 |SCL | The line that carries the clock signal|
 |SDA| The line for the master and slave to send and receive data|
+
+3. Connect jumper wires to display (The colours on the cable don’t matter)
+
+![This is image](https://i.imgur.com/16oRT5X.png)
+
+4. Next we have to connect jumper wires to Raspberry Pi’s GPIO pins
+## Note: My cable connection with display will be different, some display that have the VCC and GND pins the other way around. So double check, OLED display’s terminals are labelled on the front. 
+
+![This is image](https://i.imgur.com/LgyF1BR.png)
+
+5. Make sure that your Pi is off and the power is disconnected before plugging or unplugging jumpers from the GPIO pins
+6. Connect jumpers according to picture
+
+![This is image](https://i.imgur.com/Yldbrsd.png)
