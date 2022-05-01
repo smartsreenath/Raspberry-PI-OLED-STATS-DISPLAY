@@ -18,7 +18,13 @@ This Tutorial is a Part of RPI NAS Server.
 In this tutorial I am going to add I2C OLED  display to raspberry. I am using it for stats display, which will show CPU usage, Memory usage, Disk usage and IP address. In here I am using 128x64 I2C OLED. 
  Product Link:
  - [amzazon link](https://www.amazon.in/s?k=I2C+OLED+128+64&crid=8PDQTRB2B5KH&sprefix=i2c+oled+128+64+%2Caps%2C195&ref=nb_sb_noss_2 )
- - [Robu.in](https://robu.in/?s=olde+128x64&product_cat=0&post_type=product)
+ - [Robu.in](https://robu.in/product/1-3-inch-i2c-iic-oled-lcd-module-4pin-with-vcc-gnd-white/)
+
+If you do not want to solder the display, I reccomend to use female to female jumper cables.
+ Product Link:
+ - [amzazon link](https://www.amazon.in/s?k=female+to+female+jumper+cables&crid=1MDSATN53AINJ&sprefix=female+to+female+jumper+cables%2Caps%2C210&ref=nb_sb_noss_1)
  
 ![This is image](https://i.imgur.com/MsDTUTzm.jpg)
 ![This is image](https://i.imgur.com/5ara6uWm.jpg)
+
+![This is image](https://i.imgur.com/tCJdn9nm.jpg)
