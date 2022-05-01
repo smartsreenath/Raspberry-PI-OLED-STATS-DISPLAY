@@ -37,3 +37,11 @@ If you do not want to solder the display, I reccomend to use female to female ju
  
 ![This is image](https://i.imgur.com/Oe38PuP.png)
 
+2. These are  GND, VCC, SCL, and SDA
+
+| | Description|
+| --- | --- | 
+| GND |Ground Voltage|
+| VCC | Voltage Common Collector|
+|SCL | The line that carries the clock signal|
+|SDA| The line for the master and slave to send and receive data|
