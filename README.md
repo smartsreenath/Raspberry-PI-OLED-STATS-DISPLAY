@@ -24,7 +24,16 @@ If you do not want to solder the display, I reccomend to use female to female ju
  Product Link:
  - [amzazon link](https://www.amazon.in/s?k=female+to+female+jumper+cables&crid=1MDSATN53AINJ&sprefix=female+to+female+jumper+cables%2Caps%2C210&ref=nb_sb_noss_1)
  
-![This is image](https://i.imgur.com/MsDTUTzm.jpg)
-![This is image](https://i.imgur.com/5ara6uWm.jpg)
+![This is image](https://i.imgur.com/X0JSGas.png)
 
-![This is image](https://i.imgur.com/tCJdn9nm.jpg)
+<p align="center">
+  <img 
+       src="https://i.imgur.com/tCJdn9nm.jpg"
+  >
+</p>
+
+## Connecting Your OLED Stats Display To Your Raspberry Pi
+ 1. The OLED display’s terminals are labelled on the front
+ 
+![This is image](https://i.imgur.com/Oe38PuP.png)
+
